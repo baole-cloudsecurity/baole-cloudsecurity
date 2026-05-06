@@ -8,7 +8,7 @@ I learn by building and breaking things in real AWS environments, then writing u
 
 ### 🛠️ What I'm working on
 
-**[AWS Solutions Architect Project](https://github.com/BryanSec08/AWS-Solutions-Architect-project)** — hands-on labs covering:
+**[AWS Solutions Architect Project](https://github.com/RyanSec08/AWS-Solutions-Architect-project)** — hands-on labs covering:
 
 - VPC design, subnets, routing
 - Bastion hosts and SSH hardening
@@ -23,4 +23,21 @@ Each lab is written up with a security framing — *what's the attack surface, a
 
 ### 🎯 Direction
 
-Targeting **Cloud
+Targeting **Cloud Security Engineer** and **AWS Security Engineer** roles.
+
+The combination of AWS architecture skills and security mindset is rarer than either skill alone — and I'm building a portfolio that demonstrates both.
+
+### 📜 Certifications
+
+- AWS Certified Solutions Architect – Associate
+- CompTIA Security+
+- CompTIA Network+
+
+### 📬 Reach me
+
+- 📧 [bryanxle1125@gmail.com](mailto:bryanxle1125@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/ryanle-cloudsec)
+
+---
+
+*Open to connecting with hiring managers, fellow learners, and anyone working in cloud security.*
