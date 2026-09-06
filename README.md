@@ -31,7 +31,7 @@ The combination of AWS architecture skills and security mindset is rarer than ei
 ### 📜 Certifications
 
 - AWS Certified Solutions Architect – Associate
-- AWS Cloud Practitioner- Associate
+- AWS Certified Cloud Practitioner
 - CompTIA Security+
 - CompTIA Network+ *(in progress)*
   
