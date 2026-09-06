@@ -2,7 +2,8 @@
 
 Cloud Security Engineer in training, based in Oakland, CA.
 
-I focus on the intersection where most cloud incidents actually happen — misconfigured IAM, leaky security groups, hardcoded credentials, and the gap between "it works" and "it's safe."
+I build AWS labs focused on identity and access management, network segmentation, credential protection, and audit logging. My write-ups document the configurations I tested, problems I encountered, and security decisions behind each project.
+
 
 I learn by building and breaking things in real AWS environments, then writing up what I learn for other people pivoting into the field.
 
