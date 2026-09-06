@@ -8,7 +8,7 @@ I learn by building and breaking things in real AWS environments, then writing u
 
 ### 🛠️ What I'm working on
 
-**[AWS Solutions Architect Project](https://github.com/RyanSec08/AWS-Solutions-Architect-project)** — hands-on labs covering:
+**[AWS Solutions Architect Project](https://github.com/baole-cloudsecurity/AWS-Solutions-Architect-project)** — hands-on labs covering:
 
 - VPC design, subnets, routing
 - Bastion hosts and SSH hardening
@@ -30,8 +30,9 @@ The combination of AWS architecture skills and security mindset is rarer than ei
 ### 📜 Certifications
 
 - AWS Certified Solutions Architect – Associate
+- AWS Cloud Practitioner- Associate
 - CompTIA Security+
-- CompTIA Network+
+  
 
 ### 📬 Reach me
 
